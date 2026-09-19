@@ -1,6 +1,6 @@
 <%-- 
-    Document   : buscador
-    Created on : 19/09/2026, 2:47:45 p. m.
+    Document   : inventario
+    Created on : 19/09/2026, 2:48:12 p. m.
     Author     : Aprendiz
 --%>
 
@@ -9,9 +9,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Inventario</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Holi inventario!</h1>
     </body>
 </html>
