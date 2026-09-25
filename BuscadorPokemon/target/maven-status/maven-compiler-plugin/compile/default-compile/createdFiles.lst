@@ -1,0 +1,9 @@
+com\pokemon\model\Usuario.class
+com\pokemon\controller\RegistroServlet.class
+com\pokemon\dao\PokemonDAO.class
+com\pokemon\controller\BuscadorServlet.class
+com\pokemon\dao\UsuarioDAO.class
+com\pokemon\controller\LoginServlet.class
+com\pokemon\controller\MochilaServlet.class
+com\pokemon\model\Pokemon.class
+com\pokemon\config\ConfigBD.class
